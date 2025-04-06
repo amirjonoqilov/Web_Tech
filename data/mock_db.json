@@ -1,122 +1,26 @@
 [
     {
-        "id": "wzcU",
-        "ticket": {
-            "eventName": "The Avengers",
-            "eventDateTime": "11/04/2025 13:50",
-            "venue": "Samarkand",
-            "contactPhone": "+998913334261",
-            "seat": "31"
-        }
+        "id": "4d5e6f",
+        "title": "Hiking in the Rockies",
+        "location": "Rocky Mountains, USA",
+        "photos": [
+            "mountain_view.jpg",
+            "trail.jpg"
+        ],
+        "experiences": "Challenging but rewarding hike with breathtaking views."
     },
     {
-        "id": "asdR",
-        "ticket": {
-            "eventName": "Iron Man 4",
-            "eventDateTime": "14/05/2025 19:00",
-            "venue": "Tashkent",
-            "contactPhone": "+998913334262",
-            "seat": "5"
-        }
+        "id": "wWojEg",
+        "title": "dsjkrhg",
+        "location": ",mjaf",
+        "photos": "akjfh",
+        "experiences": "kajsefhkh"
     },
     {
-        "id": "dFeT",
-        "ticket": {
-            "eventName": "Captain Marvel 2",
-            "eventDateTime": "20/06/2025 15:00",
-            "venue": "Bukhara",
-            "contactPhone": "+998913334263",
-            "seat": "12"
-        }
-    },
-    {
-        "id": "gHjK",
-        "ticket": {
-            "eventName": "Spider-Man: No Way Home",
-            "eventDateTime": "03/07/2025 17:45",
-            "venue": "Samarkand",
-            "contactPhone": "+998913334264",
-            "seat": "8"
-        }
-    },
-    {
-        "id": "kLzB",
-        "ticket": {
-            "eventName": "Black Panther 2",
-            "eventDateTime": "09/08/2025 20:00",
-            "venue": "Andijan",
-            "contactPhone": "+998913334265",
-            "seat": "25"
-        }
-    },
-    {
-        "id": "mNoQ",
-        "ticket": {
-            "eventName": "Guardians of the Galaxy Vol. 3",
-            "eventDateTime": "12/09/2025 16:30",
-            "venue": "Khiva",
-            "contactPhone": "+998913334266",
-            "seat": "14"
-        }
-    },
-    {
-        "id": "pQrS",
-        "ticket": {
-            "eventName": "Ant-Man and the Wasp: Quantumania",
-            "eventDateTime": "18/10/2025 14:15",
-            "venue": "Fergana",
-            "contactPhone": "+998913334267",
-            "seat": "19"
-        }
-    },
-    {
-        "id": "tUvZ",
-        "ticket": {
-            "eventName": "Thor: Love and Thunder",
-            "eventDateTime": "25/11/2025 18:00",
-            "venue": "Namangan",
-            "contactPhone": "+998913334268",
-            "seat": "3"
-        }
-    },
-    {
-        "id": "yXpV",
-        "ticket": {
-            "eventName": "Doctor Strange in the Multiverse of Madness",
-            "eventDateTime": "15/12/2025 21:00",
-            "venue": "Tashkent",
-            "contactPhone": "+998913334269",
-            "seat": "9"
-        }
-    },
-    {
-        "id": "zAkP",
-        "ticket": {
-            "eventName": "The Eternals",
-            "eventDateTime": "05/01/2026 16:00",
-            "venue": "Bukhara",
-            "contactPhone": "+998913334270",
-            "seat": "22"
-        }
-    },
-    {
-        "id": "vMbN",
-        "ticket": {
-            "eventName": "Shang-Chi and the Legend of the Ten Rings",
-            "eventDateTime": "10/02/2026 20:30",
-            "venue": "Andijan",
-            "contactPhone": "+998913334271",
-            "seat": "30"
-        }
-    },
-    {
-        "id": "qTwR",
-        "ticket": {
-            "eventName": "Black Widow",
-            "eventDateTime": "20/03/2026 18:15",
-            "venue": "Samarkand",
-            "contactPhone": "+998913334272",
-            "seat": "18"
-        }
+        "id": "O88oXh",
+        "title": "dsjkrhg",
+        "location": ",mjaf",
+        "photos": "akjfh",
+        "experiences": "kajsefhkh"
     }
 ]
