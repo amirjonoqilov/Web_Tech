@@ -22,6 +22,7 @@ app.set('view engine', 'pug');
  
 app.use('/css', express.static('public/css'))
 app.use('/js', express.static('public/js'))
+app.use('/images', express.static('public/images'))
  
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

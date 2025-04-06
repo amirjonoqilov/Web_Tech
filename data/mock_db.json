@@ -4,45 +4,28 @@
         "title": "Hiking in the Rockies",
         "location": "Rocky Mountains, USA",
         "photos": [
-            "mountain_view.jpg",
-            "trail.jpg"
+            "/images/mountain_view.jpg",
+            "/images/trail.jpg"
         ],
         "experiences": "Challenging but rewarding hike with breathtaking views."
     },
     {
-        "id": "nvg8xq",
-        "title": "defksjeh",
-        "location": "five",
+        "id": "abc123",
+        "title": "Beach Vacation",
+        "location": "Maldives",
         "photos": [
-            "eft"
+            "https://upload.wikimedia.org/wikipedia/commons/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
         ],
-        "experiences": "eft"
+        "experiences": "Relaxing vacation with beautiful sunsets."
     },
     {
-        "id": "89w4ts",
-        "title": "hello there",
-        "location": "here",
+        "id": "r7d43v",
+        "title": "street",
+        "location": "California",
         "photos": [
-            "some.jpg"
+            "https://en.wikipedia.org/wiki/California_Street_%28San_Francisco%29#/media/File:Califstreet_2a.jpg",
+            "https://en.wikipedia.org/wiki/California_Street_%28San_Francisco%29#/media/File:California_street_san_francisco.jpg"
         ],
-        "experiences": "it was very good"
-    },
-    {
-        "id": "vgnyhd",
-        "title": "sv",
-        "location": "pdf",
-        "photos": [
-            "sad"
-        ],
-        "experiences": "pdf"
-    },
-    {
-        "id": "lv3p89",
-        "title": "lsakdfh",
-        "location": "asdf",
-        "photos": [
-            "asdf"
-        ],
-        "experiences": "asdf"
+        "experiences": "it wa good"
     }
 ]

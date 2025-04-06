@@ -1,4 +1,3 @@
-
 const travel_service = require('../../../services/travel');
 
 const home_controller = {

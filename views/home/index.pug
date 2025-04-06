@@ -12,6 +12,7 @@ body
             th(scope="col") ID
             th(scope="col") Title
             th(scope="col") Location
+            th(scope="col") Photos
             th(scope="col") Actions
         tbody
 script.
@@ -25,6 +26,9 @@ script.
           <td>${post.id}</td>
           <td>${post.title}</td>
           <td>${post.location}</td>
+          <td>
+            ${post.photos.map(photo => `<img src="${photo}" alt="Photo" style="width: 100px; height: auto; margin-right: 5px;">`).join('')}
+          </td>
           <td>
             <button class="btn btn-primary btn-sm" data-id="${post.id}" onclick="window.location.href='/update/${post.id}'">Update</button>
             <button class="btn btn-danger btn-sm" data-id="${post.id}">Delete</button>
