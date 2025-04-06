@@ -5,7 +5,7 @@ const router = express.Router();
 
 router.get('/', travel_controller.getAll);
 router.post('/', travel_controller.create);
-router.put('/:id', travel_controller.update); // Ensure this is mapped correctly
+router.put('/:id', travel_controller.update); // Correctly placed here
 router.delete('/:id', travel_controller.delete);
 
 module.exports = router;

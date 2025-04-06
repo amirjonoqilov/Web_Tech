@@ -2,7 +2,7 @@ include ../head.pug
 body
   .container.mt-5
     h1 #{mode} Travel Post
-    form(method="post" action=(mode === 'Update' ? `/api/travel/${travelPost && travelPost.id}` : '/api/travel'))
+    form(method="post" action=(mode === 'Update' ? `/api/travel/${travelPost && travelPost.id}?_method=PUT` : '/api/travel'))
       .mb-3
         label(for="title" class="form-label") Title
         input(type="text" class="form-control" id="title" name="title" required value=(travelPost && travelPost.title || ''))

@@ -13,6 +13,8 @@ global.mock_db = path.join(__dirname, './data/mock_db.json');
 const web_route = require('./routes/web');
 const api_route = require('./routes/api');
  
+const methodOverride = require('method-override');
+
 const app = express();
  
 // Set the view engine for web routes
@@ -23,7 +25,10 @@ app.use('/js', express.static('public/js'))
  
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
- 
+
+// Enable method override
+app.use(methodOverride('_method'));
+
 app.use('/api', api_route); // API routes
 app.use('/', web_route); // web routes
  
@@ -34,3 +39,4 @@ app.use((req, res) => {
  
 const port = 3000;
 app.listen(port, () => console.log(`Server running on port ${port}`));
+

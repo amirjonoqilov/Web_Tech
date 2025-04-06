@@ -1,4 +1,4 @@
-const ticket_service = require('../../../services/travel');
+
 const travel_service = require('../../../services/travel');
 
 const home_controller = {

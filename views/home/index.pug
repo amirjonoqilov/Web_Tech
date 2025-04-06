@@ -50,3 +50,10 @@ script.
       }
     });
   });
+
+
+
+form(method="post" action=(mode === 'Update' ? `/api/travel/${travelPost && travelPost.id}?_method=PUT` : '/api/travel'))
+
+
+
