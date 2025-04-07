@@ -1,15 +1,5 @@
 [
     {
-        "id": "4d5e6f",
-        "title": "Hiking in the Rockies",
-        "location": "Rocky Mountains, USA",
-        "photos": [
-            "/images/mountain_view.jpg",
-            "/images/trail.jpg"
-        ],
-        "experiences": "Challenging but rewarding hike with breathtaking views."
-    },
-    {
         "id": "abc123",
         "title": "Beach Vacation",
         "location": "Maldives",
@@ -23,9 +13,18 @@
         "title": "street",
         "location": "California",
         "photos": [
-            "https://en.wikipedia.org/wiki/California_Street_%28San_Francisco%29#/media/File:Califstreet_2a.jpg",
+            "https://uzbekistan.travel/storage/app/media/Rasmlar/Toshkent/shaxar/cropped-images/shutterstock_2346840877-0-0-0-0-1738671575.jpg",
             "https://en.wikipedia.org/wiki/California_Street_%28San_Francisco%29#/media/File:California_street_san_francisco.jpg"
         ],
         "experiences": "it wa good"
+    },
+    {
+        "id": "8fsrq7",
+        "title": "Tajmahal",
+        "location": "India, tamale",
+        "photos": [
+            "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_p_ep0c47m4PwZTQdH6Phl7isbdxsmOnc4tK3XSO8QHbh4Bl_-4q5BIiYcjT3BAR7OvTmxXzq2WPEhEhhr_bj3-s9WwizM68MrAx7MzlnmrmZLBRLYJxJKMxiXvi2YHD6fNlzMHQ=w1080-h624-n-k-no"
+        ],
+        "experiences": "Tajmahal was amazing!!\r\n"
     }
 ]
