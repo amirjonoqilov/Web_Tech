@@ -2,21 +2,11 @@
     {
         "id": "abc123",
         "title": "Beach Vacation",
-        "location": "Maldives",
+        "location": "Maldives, high",
         "photos": [
             "https://upload.wikimedia.org/wikipedia/commons/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
         ],
         "experiences": "Relaxing vacation with beautiful sunsets."
-    },
-    {
-        "id": "r7d43v",
-        "title": "street",
-        "location": "California",
-        "photos": [
-            "https://uzbekistan.travel/storage/app/media/Rasmlar/Toshkent/shaxar/cropped-images/shutterstock_2346840877-0-0-0-0-1738671575.jpg",
-            "https://en.wikipedia.org/wiki/California_Street_%28San_Francisco%29#/media/File:California_street_san_francisco.jpg"
-        ],
-        "experiences": "it wa good"
     },
     {
         "id": "8fsrq7",
@@ -26,5 +16,12 @@
             "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_p_ep0c47m4PwZTQdH6Phl7isbdxsmOnc4tK3XSO8QHbh4Bl_-4q5BIiYcjT3BAR7OvTmxXzq2WPEhEhhr_bj3-s9WwizM68MrAx7MzlnmrmZLBRLYJxJKMxiXvi2YHD6fNlzMHQ=w1080-h624-n-k-no"
         ],
         "experiences": "Tajmahal was amazing!!\r\n"
+    },
+    {
+        "id": "91dd2k",
+        "title": "Germany",
+        "location": "jag",
+        "photos": [],
+        "experiences": "ksdfgkjfs"
     }
 ]
