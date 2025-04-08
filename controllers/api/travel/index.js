@@ -5,12 +5,13 @@ const travel_controller = {
         res.json(travel_service.getAll());
     },
     create(req, res) {
-        res.status(201).json(travel_service.create(req, res));
+        travel_service.create(req, res);
+        res.redirect('/'); // Redirect to the homepage after adding a travel post
     },
     update(req, res) {
         const updatedPost = travel_service.update(req.params.id, req.body);
         if (updatedPost) {
-            res.json(updatedPost);
+            res.redirect('/'); // Redirect to the homepage after updating a travel post
         } else {
             res.status(404).send('Travel post not found');
         }
